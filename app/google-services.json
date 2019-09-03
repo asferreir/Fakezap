@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "487640548681",
+    "firebase_url": "https://fakezap-74b4f.firebaseio.com",
+    "project_id": "fakezap-74b4f",
+    "storage_bucket": "fakezap-74b4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487640548681:android:e9b291812c773ee5",
+        "android_client_info": {
+          "package_name": "com.example.anderson.fakezap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487640548681-frlrou7cadc08c72kbn710osftjfcbvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anderson.fakezap",
+            "certificate_hash": "270aca40720e962dbbfbbeef939be983dd75a72c"
+          }
+        },
+        {
+          "client_id": "487640548681-b2papjs2st7vv8l0lnjnprqau6k44vc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7KgDpg8Q4KWr-IW6nDK7_0xoY-0a1DXs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487640548681-b2papjs2st7vv8l0lnjnprqau6k44vc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
